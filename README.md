@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rubygorilla
-- 👀 I’m interested to transition into tech roles
+- 👀 I love exploring new technologies
 - 🌱 I’m currently learning AI tech stack
 - 💞️ I’m looking to collaborate on AI Projects
 - 📫 How to reach me - productstrategywithaakash@gmail.com
